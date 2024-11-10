@@ -12,20 +12,4 @@ Bu proje, çeşitli sprintlerde geliştirilen yazılım uygulamalarıyla ilgili 
 
 Bu klasör yapısı, projenin yönetimini kolaylaştırmak ve düzeni sağlamak amacıyla tasarlanmıştır.
 
-project-root/
-├── docs/
-│   └── README.md
-│   ├── sprint-instruction/
-│   │   └── README.md
-│   └── sprint-report/
-│       └── README.md
-├── src/
-│   ├── README.md
-│   ├── POC_projesi_01_Isim_Soyisim/
-│   │   ├── README.md
-│   │   └── utils/
-│   │       └── README.md
-│   ├── POC_projesi_02_Isim_Soyisim/
-│   │   └── README.md
-└── .gitignore
 
