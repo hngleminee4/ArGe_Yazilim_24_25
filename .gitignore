@@ -19,3 +19,6 @@ __pycache__/
 
 # pipenv
 Pipfile.lock
+.DS_Store
+/doc/.DS_Store
+/doc/sprint_reports/.DS_Store
